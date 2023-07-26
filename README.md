@@ -37,6 +37,9 @@
 ### 2. 상세페이지 등록
 + 상세페이지 등록
 ![상세페이지 등록](https://github.com/kangjs3779/membery/assets/123609533/44ed581d-e4e3-47e1-88f2-b46695a216e1)
+### 3. 댓글 및 별점 등록
++ 댓글 등록
+![화면 기록 2023-07-26 오후 10 15 16](https://github.com/kangjs3779/membery/assets/123609533/dd728c63-c533-4294-beba-1845f83e02c6)
 ### 3. 관리자 페이지
 + 해당 호스트 조회/수정/삭제
 ![관리자 호스트 조회 수정 삭제](https://github.com/kangjs3779/membery/assets/123609533/fdedd574-0eed-40f9-9542-035a07454bac)
